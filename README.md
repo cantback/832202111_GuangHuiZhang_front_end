@@ -8,7 +8,9 @@
 
 ## basic functions
 - The home page displays all contact information, including name and phone number
-- Click the Add button to pop up the Add contact pop-up window. Enter the contact information and click the Confirm button to add a new contact
+- You can swipe down the list for more contact information
+- Click the Add button to pop up the Add contact pop-up window. Enter the contact information and click the Confirm button to add a new contactv
+- Click the Delete button in the contact list to delete the contact
 - Click the Edit button to pop up the Edit contact pop-up window. Enter the modified contact information and click the Confirm button to modify the contact information
 - In the search bar, you can tap search to quickly search for contact information. After you enter your name, contact information related to your name is displayed
 
